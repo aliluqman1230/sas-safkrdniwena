@@ -3,7 +3,7 @@ import React from 'react';
 export const Footer: React.FC = () => {
   return (
     <footer className="w-full pt-8 text-center lg:text-right text-gray-500 text-xs">
-      <p>&copy; 2025 sarokalishett. هەموو مافێکی پارێزراوە.</p>
+      <p>&copy; 2024 sarokalishett. هەموو مافێکی پارێزراوە.</p>
       <a
         href="https://www.facebook.com/aliluqman.rahmanqadr"
         target="_blank"
